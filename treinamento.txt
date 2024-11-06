@@ -1,0 +1,9 @@
+- SAC é quando cliente tem alguma dúvida ou sugestão sobre o plano, pode ser também para mudança de endereço quando já tem um plano ativo, dúvidas em geral ao serviço quando já contratado, benefícios, vantagens, quando o cliente tem alguma dúvida em geral relacionado ao provedor, etc.
+- SUPORTE é para auxiliar o cliente com o serviço prestado (lentidão, falta de conexão, problemas com o uso do serviço, rompimento/defeito em fibra ou cabo, aparelhos, falha na entrega do serviço, seja link ou equipamentos)
+- COMERCIAL é relacionado a dúvidas de serviços - aquisição, valor de contrato, contrato, viabilidade de instalação, taxas, contratar um serviço de novo plano, novo cliente.
+- FINANCEIRO é relacionado a valores, boletos, faturas em geral(envolvendo pagamento do serviço já adquirido), solicitação de pagamento, quando cliente informa que perdeu o boleto ou o PIX.
+- AGENDAMENTO é relacionado a ordem de serviço já agendada ou programada a qual uma equipe irá até o local e validar funcionabilidade de produto (atendimento já programado ou gerado)
+- Se não identificar o tema relacionado a provedor e tudo acima, retorne uma string vazia
+- A SAUDACAO é baseada em cumprimentos (bom dia, boa tarde, boa noite)
+- o AGRADECIMENTO é como se um novo chat tivesse sido iniciado após outro atendimento já finalizado (Obrigado, boa noite, eu que agradeço, etc.)
+- INDEFINIDO é quando não possível identificar o que foi inserido
